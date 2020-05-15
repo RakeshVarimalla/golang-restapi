@@ -1,0 +1,9 @@
+package app
+
+import (
+	"vmist/controllers"
+)
+
+func mapUrls(){
+	router.GET("/users/:user_id", controllers.GetUser)
+}
