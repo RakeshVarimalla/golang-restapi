@@ -1,6 +1,9 @@
 package app
 
-import "github.com/gin-gonic/gin"
+import (
+	"github.com/gin-gonic/gin"
+	"microservices/api/log"
+)
 
 
 var (
@@ -12,6 +15,7 @@ func init(){
 }
 
 func StartApp() {
+	log.Info("starting app","step:1","app:StartApp")
 	mapUrls()
 	err := router.Run(":8081")
 	if err != nil {
