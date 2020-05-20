@@ -1,7 +1,7 @@
 package app
 
 import (
-	"vmist/controllers"
+	"github.com/RakeshVarimalla/golang-restapi/vmist/controllers"
 )
 
 func mapUrls(){

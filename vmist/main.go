@@ -1,7 +1,7 @@
 package main
 
 import (
-	"vmist/app"
+	"github.com/RakeshVarimalla/golang-restapi/vmist/app"
 )
 
 func main() {

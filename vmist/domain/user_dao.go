@@ -3,7 +3,7 @@ package domain
 import (
 	"fmt"
 	"net/http"
-	"vmist/utils"
+	"github.com/RakeshVarimalla/golang-restapi/vmist/utils"
 )
 
 type User struct {

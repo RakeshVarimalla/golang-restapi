@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"
-	"vmist/services"
-	"vmist/utils"
+	"github.com/RakeshVarimalla/golang-restapi/vmist/services"
+	"github.com/RakeshVarimalla/golang-restapi/vmist/utils"
 )
 
 func GetUser(c *gin.Context) {

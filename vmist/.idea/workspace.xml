@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="576c0ea0-cee5-4720-baf7-255298f1f17d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.1/libexec" />
+  <component name="ProjectId" id="1bomEtdi5UQwHSyM3wuKXyERTvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build vmist">
+    <configuration name="go build vmist" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="vmist" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="vmist" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkAddUser in vmist/domain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="vmist" />
+      <working_directory value="$PROJECT_DIR$/domain" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="vmist/domain" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkAddUser$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkGetUser in vmist/domain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="vmist" />
+      <working_directory value="$PROJECT_DIR$/domain" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="vmist/domain" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkGetUser$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetUserNoError in vmist/domain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="vmist" />
+      <working_directory value="$PROJECT_DIR$/domain" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="vmist/domain" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetUserNoError$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetUserNoUserFound in vmist/domain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="vmist" />
+      <working_directory value="$PROJECT_DIR$/domain" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="vmist/domain" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetUserNoUserFound$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build vmist" />
+        <item itemvalue="Go Test.TestGetUserNoError in vmist/domain" />
+        <item itemvalue="Go Test.BenchmarkAddUser in vmist/domain" />
+        <item itemvalue="Go Test.TestGetUserNoUserFound in vmist/domain" />
+        <item itemvalue="Go Test.BenchmarkGetUser in vmist/domain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="55" key="#TestGetUserNoUserFound_in_vmist/domain" timestamp="1589380510313">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="417" y="55" key="#TestGetUserNoUserFound_in_vmist/domain/0.23.1440.823@0.23.1440.823" timestamp="1589380510313" />
+    <state x="120" y="143" width="1200" height="572" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589380842123">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="120" y="143" width="1200" height="572" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.823@0.23.1440.823" timestamp="1589380842123" />
+    <state x="460" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589426299785">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="460" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1589426299785" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1589433657224">
+      <screen x="0" y="0" width="1440" height="820" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.820@0.0.1440.820" timestamp="1589433657224" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.835@0.0.1440.835" timestamp="1589428479387" />
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1589427555713" />
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1589426894324" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1589346248203" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1589361928949" />
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1589426810367" />
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589419333868" />
+    <state width="1358" height="308" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1589373073346" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1589433657222">
+      <screen x="0" y="0" width="1440" height="820" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.820@0.0.1440.820" timestamp="1589433657222" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.835@0.0.1440.835" timestamp="1589428479386" />
+    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1589427555712" />
+    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1589426894323" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1589346248202" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1589361928947" />
+    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1589426810366" />
+    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1589419333867" />
+    <state width="1358" height="308" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1589373073345" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1589433657222">
+      <screen x="0" y="0" width="1440" height="820" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.820@0.0.1440.820" timestamp="1589433657222" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.835@0.0.1440.835" timestamp="1589428479385" />
+    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1589427555711" />
+    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1589426894323" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1589346248200" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1589361928945" />
+    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1589426810359" />
+    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589419333860" />
+    <state width="1358" height="308" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1589373073342" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1589433657223">
+      <screen x="0" y="0" width="1440" height="820" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.820@0.0.1440.820" timestamp="1589433657223" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.835@0.0.1440.835" timestamp="1589428479386" />
+    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1589427555713" />
+    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1589426894323" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1589346248202" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1589361928948" />
+    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1589426810366" />
+    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1589419333867" />
+    <state width="1358" height="308" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1589373073345" />
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom" timestamp="1589426892092">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1589426892092" />
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589380807535" />
+    <state width="1358" height="244" key="GridCell.Tab.1.center" timestamp="1589426892091">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1589426892091" />
+    <state width="1358" height="244" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1589380807534" />
+    <state width="1358" height="244" key="GridCell.Tab.1.left" timestamp="1589426892090">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1589426892090" />
+    <state width="1358" height="244" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1589380807534" />
+    <state width="1358" height="244" key="GridCell.Tab.1.right" timestamp="1589426892091">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1589426892091" />
+    <state width="1358" height="244" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1589380807535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/app/app.go</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vmist$TestGetUserNoUserFound_in_vmist_domain.out" NAME="TestGetUserNoUserFound in vmist/domain Coverage Results" MODIFIED="1589377591674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/vmist$go_test_vmist_domain.out" NAME="go test vmist/domain Coverage Results" MODIFIED="1589380918532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/vmist$TestGetUserNoError_in_vmist_domain.out" NAME="TestGetUserNoError in vmist/domain Coverage Results" MODIFIED="1589380527031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
